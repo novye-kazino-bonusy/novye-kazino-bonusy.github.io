@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: novye-kazino-bonusy.github.io
+Sitemap: https://novye-kazino-bonusy.github.io/sitemap.xml
